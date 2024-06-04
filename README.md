@@ -1,13 +1,15 @@
 ᴄᴏɴꜱᴏʟᴇ.ʟᴏɢ('ʜᴇʟʟᴏ ᴡᴏʀʟᴅ!');
 
 <h3> ᴊᴇ ᴍ'ᴀᴘᴘᴇʟʟᴇ ɢüʟʙᴀʜᴀʀ ᴇᴛ ʙɪᴇɴᴠᴇɴᴜᴇ ꜱᴜʀ ᴍᴏɴ ɢɪᴛ ʜᴜʙ 🎈</h3>
-- 🍉 she/her,
+<li>
+  <ul>🍉 she/her,</ul>
 - 👩🏻‍🎓 étudiante à Ada Tech School 🏫 depuis le 29 janvier 2024,
 - 🍃 j'apprends plusieurs langages comme : JavaScript, HTML, CSS, Python, SQL, PHP...,
 - ⚒️ ma formation compile front-end et back-end,
 - 🚀 actuellement je suis à la recherche d'une alternance pour novembre 2024 ou janvier 2025,
 - 💌 pour me contacter : gulbaharyahsi57@gmail.com
 - 🎨 à propos de moi : pendant mon temps libre, je m'épanouis en tant qu'artiste à travers mes dessins d'animés, de mangas et de paysages. Passionnée de jeux vidéos, je suis également très méticuleuse dans tout ce que j'entreprends.
+</li>
 
 <h3 align="left">Mon Linkedin :</h3>
 <p align="left">
