@@ -9,7 +9,8 @@ Je m'appelle Gülbahar et bienvenue sur mon Git Hub 🎈
 - 💌 pour me contacter : gulbaharyahsi57@gmail.com
 - 🎨 à propos de moi : pendant mon temps libre, je m'épanouis en tant qu'artiste à travers mes dessins d'animés, de mangas et de paysages. Passionnée de jeux vidéos, je suis également très méticuleuse dans tout ce que j'entreprends.
 
-Mon Linkedin : 
+<h3 align="left">Mon Linkedin :</h3>
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gülbahar-y-431529170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gülbahar-y-431529170/" height="30" width="40" /></a>
 </p>
 
