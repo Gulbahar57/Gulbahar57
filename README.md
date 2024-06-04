@@ -1,6 +1,6 @@
 ᴄᴏɴꜱᴏʟᴇ.ʟᴏɢ('ʜᴇʟʟᴏ ᴡᴏʀʟᴅ!');
 
-Je m'appelle Gülbahar et bienvenue sur mon Git Hub 🎈
+<h3 ᴊᴇ ᴍ'ᴀᴘᴘᴇʟʟᴇ ɢüʟʙᴀʜᴀʀ ᴇᴛ ʙɪᴇɴᴠᴇɴᴜᴇ ꜱᴜʀ ᴍᴏɴ ɢɪᴛ ʜᴜʙ 🎈</h3>
 - 🍉 she/her,
 - 👩🏻‍🎓 étudiante à Ada Tech School 🏫 depuis le 29 janvier 2024,
 - 🍃 j'apprends plusieurs langages comme : JavaScript, HTML, CSS, Python, SQL, PHP...,
