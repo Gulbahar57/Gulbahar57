@@ -1,8 +1,7 @@
 ᴄᴏɴꜱᴏʟᴇ.ʟᴏɢ('ʜᴇʟʟᴏ ᴡᴏʀʟᴅ!');
 
 <h3> ᴊᴇ ᴍ'ᴀᴘᴘᴇʟʟᴇ ɢüʟʙᴀʜᴀʀ ᴇᴛ ʙɪᴇɴᴠᴇɴᴜᴇ ꜱᴜʀ ᴍᴏɴ ɢɪᴛ ʜᴜʙ 🎈</h3>
-<li>
-  <ul>🍉 she/her,</ul>
+<li><ul>🍉 she/her,</ul>
 - 👩🏻‍🎓 étudiante à Ada Tech School 🏫 depuis le 29 janvier 2024,
 - 🍃 j'apprends plusieurs langages comme : JavaScript, HTML, CSS, Python, SQL, PHP...,
 - ⚒️ ma formation compile front-end et back-end,
