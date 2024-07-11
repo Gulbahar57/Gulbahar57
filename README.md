@@ -10,7 +10,7 @@
   
 - ⚒️ ma formation compile front-end et back-end,
 
-- 🚀 actuellement je suis à la recherche d'une alternance pour novembre 2024 ou janvier 2025 (durée: 1an, rythme: 4j/5),
+- 🚀 actuellement je suis à la recherche d'une alternance pour octobre/novembre 2024 ou janvier 2025 (durée: 1an, rythme: 4j/5),
   
 - 💌 pour me contacter : gulbaharyahsi57@gmail.com,
   
