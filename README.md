@@ -6,7 +6,7 @@
 
 - 👩🏻‍🎓 étudiante à Ada Tech School 🏫 depuis le 29 janvier 2024,
   
-- 🍃 j'apprends plusieurs langages et frameworks comme : PHP, JavaScript, HTML, CSS, Python, SQL, Laravel, React...,
+- 🍃 j'apprends plusieurs langages et frameworks comme : JavaScript, HTML, CSS, Python, SQL, React, Laravel, PHP...,
   
 - ⚒️ ma formation compile front-end et back-end,
 
